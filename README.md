@@ -1,7 +1,7 @@
 # Hey there! I'm IT Dev Head at PT. Roda Jaya Sakti 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&height=60&lines=Welcome+to+the+Official+Dev+Workspace+🚀;PT.+Roda+Jaya+Sakti+(RJS)+-+Lead+Systems+Architect;Integrating+AI%2C+IoT%2C+and+Web+Ecosystems;Turning+Coffee+☕+into+Production-ready+System;Error+404%3A+Sleep+Not+Found+🚫💤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=750&height=60&lines=Welcome+to+the+Official+Dev+Workspace+🚀%3BPT.+Roda+Jaya+Sakti+(RJS)+-+Lead+Systems+Architect%3BIntegrating+AI%2C+IoT%2C+and+Web+Ecosystems%3BTurning+Coffee+☕+into+Production-ready+System%3BError+404%3A+Sleep+Not+Found+🚫💤" alt="Typing SVG" />
 </div>
 
 ---
